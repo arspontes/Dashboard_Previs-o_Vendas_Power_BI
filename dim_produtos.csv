@@ -1,0 +1,265 @@
+﻿id_produto;produto;nome_produto;unidade_medida;categoria;marca;estoque_minimo;estoque_inicial;estoque_atual_projetado;nome_categoria
+BIS899;Bisteca suína (Peça) (Com osso);Bisteca suína (Peça);UN;acougue;Com osso;14;38;48;Açougue
+FIL115;Filé de peixe (Peça) (Tilápia);Filé de peixe (Peça);UN;acougue;Tilápia;12;32;39;Açougue
+HAM731;Hambúrguer (Vegetariano);Hambúrguer;UN;acougue;Vegetariano;10;30;40;Açougue
+HAM623;Hambúrguer (Frango);Hambúrguer;UN;acougue;Frango;18;54;73;Açougue
+HAM612;Hambúrguer (Bovino);Hambúrguer;UN;acougue;Bovino;20;60;80;Açougue
+PEI401;Peito de frango (Peça) (Temperado);Peito de frango (Peça);UN;acougue;Temperado;12;36;47;Açougue
+PEI786;Peito de frango (Peça) (Filé com pele);Peito de frango (Peça);UN;acougue;Filé com pele;15;45;60;Açougue
+FIL975;Filé de peixe (Peça) (Merluza);Filé de peixe (Peça);UN;acougue;Merluza;10;30;40;Açougue
+PEI564;Peito de frango (Peça) (Filé sem pele);Peito de frango (Peça);UN;acougue;Filé sem pele;18;54;73;Açougue
+BIF115;Bife (Peça) (Alcatra);Bife (Peça);UN;acougue;Alcatra;11;33;44;Açougue
+BIF275;Bife (Peça) (Contrafilé);Bife (Peça);UN;acougue;Contrafilé;10;30;40;Açougue
+PER614;Peru Congelado (Perdigão);Peru Congelado;UN;acougue;Perdigão;12;36;47;Açougue
+FRA857;Frango Congelado (Perdigão);Frango Congelado;UN;acougue;Perdigão;15;45;50;Açougue
+FRA167;Frango Congelado (Frango Real);Frango Congelado;UN;acougue;Frango Real;14;42;52;Açougue
+BIS592;Bisteca suína (Peça) (Simples);Bisteca suína (Peça);UN;acougue;Simples;15;45;60;Açougue
+BIF544;Bife (Peça) (Filé Mignon);Bife (Peça);UN;acougue;Filé Mignon;8;24;33;Açougue
+COX412;Coxa de frango (Peça) (Desossada);Coxa de frango (Peça);UN;acougue;Desossada;15;45;60;Açougue
+FIL230;Filé de peixe (Peça) (Salmão);Filé de peixe (Peça);UN;acougue;Salmão;9;27;36;Açougue
+COX111;Coxa de frango (Peça) (Temperada);Coxa de frango (Peça);UN;acougue;Temperada;14;42;56;Açougue
+SOB235;Sobrecoxa de frango (Peça) (Desossada);Sobrecoxa de frango (Peça);UN;acougue;Desossada;16;48;64;Açougue
+SOB653;Sobrecoxa de frango (Peça) (Temperada);Sobrecoxa de frango (Peça);UN;acougue;Temperada;13;39;52;Açougue
+LIN373;Linguiça (Peça) (Frango);Linguiça (Peça);UN;acougue;Frango;12;36;47;Açougue
+LIN772;Linguiça (Peça) (Apimentada);Linguiça (Peça);UN;acougue;Apimentada;11;33;44;Açougue
+BIS436;Bisteca suína (Peça) (Temperada);Bisteca suína (Peça);UN;acougue;Temperada;12;34;43;Açougue
+LIN623;Linguiça (Peça) (Toscana);Linguiça (Peça);UN;acougue;Toscana;15;45;60;Açougue
+SOB281;Sobrecoxa de frango (Peça) (Simples);Sobrecoxa de frango (Peça);UN;acougue;Simples;25;59;68;Açougue
+COX974;Coxa de frango (Peça) (Simples);Coxa de frango (Peça);UN;acougue;Simples;22;66;87;Açougue
+FRA583;Frango Congelado (Seara);Frango Congelado;UN;acougue;Seara;13;39;50;Açougue
+FUB845;Fubá 500g (Fazenda Belém);Fubá 500g;UN;alimento_basico;Fazenda Belém;22;66;87;Itens Básicos
+OLE890;Óleo de Soja (900ml) (Fino);Óleo de Soja (900ml);UN;alimento_basico;Fino;38;108;141;Itens Básicos
+FUB851;Fubá 500g (Yoki);Fubá 500g;UN;alimento_basico;Yoki;25;75;100;Itens Básicos
+ARR824;Arroz 5kg (Camil);Arroz 5kg;UN;alimento_basico;Camil;17;51;40;Itens Básicos
+BOL761;Bolacha Água e Sal (200g) (Triunfo);Bolacha Água e Sal (200g);UN;alimento_basico;Triunfo;36;106;140;Itens Básicos
+ARR177;Arroz 5kg (Tio João);Arroz 5kg;UN;alimento_basico;Tio João;18;54;53;Itens Básicos
+FAR947;Farinha de trigo 1kg (Renata);Farinha de trigo 1kg;UN;alimento_basico;Renata;16;46;57;Itens Básicos
+BOL824;Bolacha Água e Sal (200g) (Piraquê);Bolacha Água e Sal (200g);UN;alimento_basico;Piraquê;32;96;127;Itens Básicos
+ARR167;Arroz 5kg (Predileta);Arroz 5kg;UN;alimento_basico;Predileta;16;48;48;Itens Básicos
+FEI598;Feijão 1kg (Kicaldo);Feijão 1kg;UN;alimento_basico;Kicaldo;15;43;44;Itens Básicos
+FEI174;Feijão 1kg (Camil);Feijão 1kg;UN;alimento_basico;Camil;16;48;61;Itens Básicos
+OLE435;Óleo de Soja (900ml) (Soya);Óleo de Soja (900ml);UN;alimento_basico;Soya;35;101;132;Itens Básicos
+OVO767;Ovos (dúzia) (Granja Santa Rita);Ovos (dúzia);UN;alimento_basico;Granja Santa Rita;18;54;58;Itens Básicos
+OVO585;Ovos (dúzia) (Granja Coelho);Ovos (dúzia);UN;alimento_basico;Granja Coelho;19;57;74;Itens Básicos
+FAR665;Farinha de trigo 1kg (Fazenda Belém);Farinha de trigo 1kg;UN;alimento_basico;Fazenda Belém;12;36;47;Itens Básicos
+FLO546;Flocão de Milho (Floc Mais);Flocão de Milho;UN;alimento_basico;Floc Mais;28;84;113;Itens Básicos
+FLO500;Flocão de Milho (Vitamilho);Flocão de Milho;UN;alimento_basico;Vitamilho;22;66;87;Itens Básicos
+FLO408;Flocão de Milho (Yoki);Flocão de Milho;UN;alimento_basico;Yoki;25;75;100;Itens Básicos
+BOL215;Bolacha Água e Sal (200g) (Marilan);Bolacha Água e Sal (200g);UN;alimento_basico;Marilan;35;105;140;Itens Básicos
+FUB643;Fubá 500g (Vitao);Fubá 500g;UN;alimento_basico;Vitao;26;78;104;Itens Básicos
+OLE623;Óleo de Soja (900ml) (Liza);Óleo de Soja (900ml);UN;alimento_basico;Liza;32;96;127;Itens Básicos
+SAL727;Sal 1kg (Sal Marítimo);Sal 1kg;UN;alimento_basico;Sal Marítimo;25;75;102;Itens Básicos
+SAL292;Sal 1kg (Cereal);Sal 1kg;UN;alimento_basico;Cereal;28;84;113;Itens Básicos
+SAL745;Sal 1kg (Cisne);Sal 1kg;UN;alimento_basico;Cisne;30;86;112;Itens Básicos
+MAC550;Macarrão 500g (Barilla);Macarrão 500g;UN;alimento_basico;Barilla;18;50;62;Itens Básicos
+MAC736;Macarrão 500g (Renata);Macarrão 500g;UN;alimento_basico;Renata;22;66;87;Itens Básicos
+MAC536;Macarrão 500g (Adria);Macarrão 500g;UN;alimento_basico;Adria;20;60;80;Itens Básicos
+CAF955;Café Torrado (500g) (3 Corações);Café Torrado (500g);UN;alimento_basico;3 Corações;30;90;130;Itens Básicos
+CAF124;Café Torrado (500g) (Pilão);Café Torrado (500g);UN;alimento_basico;Pilão;30;90;140;Itens Básicos
+FAR381;Farinha de trigo 1kg (Dona Benta);Farinha de trigo 1kg;UN;alimento_basico;Dona Benta;15;41;52;Itens Básicos
+CAF954;Café Torrado (500g) (Melitta);Café Torrado (500g);UN;alimento_basico;Melitta;30;90;120;Itens Básicos
+FEI400;Feijão 1kg (Prato Fino);Feijão 1kg;UN;alimento_basico;Prato Fino;17;51;74;Itens Básicos
+RAC460;Ração para Cães (Premier);Ração para Cães;UN;areapet;Premier;22;49;53;Área Pet
+SHA947;Shampoo para Pets (Herbalvet);Shampoo para Pets;UN;areapet;Herbalvet;19;57;76;Área Pet
+SHA893;Shampoo para Pets (Sanol Dog);Shampoo para Pets;UN;areapet;Sanol Dog;22;66;87;Área Pet
+SHA446;Shampoo para Pets (Pet Society);Shampoo para Pets;UN;areapet;Pet Society;20;60;80;Área Pet
+ARE912;Areia para Gatos (Granulito);Areia para Gatos;UN;areapet;Granulito;18;48;61;Área Pet
+PET749;Petiscos para Gatos (CatLicious);Petiscos para Gatos;UN;areapet;CatLicious;28;84;113;Área Pet
+PET396;Petiscos para Gatos (Dreamies);Petiscos para Gatos;UN;areapet;Dreamies;22;66;87;Área Pet
+ACE752;Acessórios Pet (Zee.Dog);Acessórios Pet;UN;areapet;Zee.Dog;12;36;47;Área Pet
+ACE668;Acessórios Pet (Ferplast);Acessórios Pet;UN;areapet;Ferplast;15;45;60;Área Pet
+RAC265;Ração para Gatos (Whiskas);Ração para Gatos;UN;areapet;Whiskas;30;90;120;Área Pet
+BRI587;Brinquedos para Pets (Kong);Brinquedos para Pets;UN;areapet;Kong;15;45;60;Área Pet
+BRI218;Brinquedos para Pets (Chalesco);Brinquedos para Pets;UN;areapet;Chalesco;18;54;73;Área Pet
+RAC419;Ração para Gatos (Purina Cat Chow);Ração para Gatos;UN;areapet;Purina Cat Chow;28;84;113;Área Pet
+RAC431;Ração para Cães (Pedigree);Ração para Cães;UN;areapet;Pedigree;25;75;100;Área Pet
+RAC343;Ração para Gatos (Royal Canin);Ração para Gatos;UN;areapet;Royal Canin;18;54;73;Área Pet
+ACE730;Acessórios Pet (Woof Pet);Acessórios Pet;UN;areapet;Woof Pet;19;57;76;Área Pet
+BRI132;Brinquedos para Pets (Jambo);Brinquedos para Pets;UN;areapet;Jambo;20;60;80;Área Pet
+ARE664;Areia para Gatos (Sílica);Areia para Gatos;UN;areapet;Sílica;12;36;47;Área Pet
+PET223;Petiscos para Cães (Bifinho);Petiscos para Cães;UN;areapet;Bifinho;38;114;153;Área Pet
+PET366;Petiscos para Cães (Doguitos);Petiscos para Cães;UN;areapet;Doguitos;32;96;127;Área Pet
+PET975;Petiscos para Cães (Pedigree Biscrok);Petiscos para Cães;UN;areapet;Pedigree Biscrok;35;103;136;Área Pet
+PET712;Petiscos para Gatos (Whiskas Temptations);Petiscos para Gatos;UN;areapet;Whiskas Temptations;25;75;100;Área Pet
+RAC733;Ração para Cães (Royal Canin);Ração para Cães;UN;areapet;Royal Canin;20;60;80;Área Pet
+ARE759;Areia para Gatos (Pipicat);Areia para Gatos;UN;areapet;Pipicat;15;45;60;Área Pet
+REF780;Refrigerante 2L (Coca-Cola);Refrigerante 2L;UN;bebidas;Coca-Cola;40;120;165;Bebidas
+AGU586;Água Mineral (fardo) (Indaiá);Água Mineral (fardo);UN;bebidas;Indaiá;28;74;93;Bebidas
+AGU127;Água Mineral (fardo) (Crystal);Água Mineral (fardo);UN;bebidas;Crystal;30;90;120;Bebidas
+CER729;Cerveja Lata (fardo) (Antarctica);Cerveja Lata (fardo);UN;bebidas;Antarctica;21;63;78;Bebidas
+REF825;Refrigerante 2L (Guaraná Antarctica);Refrigerante 2L;UN;bebidas;Guaraná Antarctica;38;112;156;Bebidas
+VIN352;Vinho Tinto (garrafa) (Miolo);Vinho Tinto (garrafa);UN;bebidas;Miolo;13;39;48;Bebidas
+REF943;Refrigerante 2L (Fanta);Refrigerante 2L;UN;bebidas;Fanta;39;117;164;Bebidas
+SUC335;Suco (Laranja) (Del Valle);Suco (Laranja);UN;bebidas;Del Valle;35;105;140;Bebidas
+SUC188;Suco (Laranja) (Natural One);Suco (Laranja);UN;bebidas;Natural One;30;88;116;Bebidas
+SUC159;Suco (Laranja) (Aurora);Suco (Laranja);UN;bebidas;Aurora;25;73;91;Bebidas
+SUC544;Suco (Maçã) (Aurora);Suco (Maçã);UN;bebidas;Aurora;32;96;127;Bebidas
+SUC715;Suco (Maçã) (Yakult);Suco (Maçã);UN;bebidas;Yakult;22;66;82;Bebidas
+SUC463;Suco (Uva) (Life Mix);Suco (Uva);UN;bebidas;Life Mix;28;84;110;Bebidas
+SUC469;Suco (Uva) (Aurora);Suco (Uva);UN;bebidas;Aurora;36;108;144;Bebidas
+SUC865;Suco (Uva) (Garibaldi);Suco (Uva);UN;bebidas;Garibaldi;31;93;124;Bebidas
+SUC479;Suco (Maçã) (Ades);Suco (Maçã);UN;bebidas;Ades;38;114;153;Bebidas
+VIN967;Vinho Tinto (garrafa) (Salton);Vinho Tinto (garrafa);UN;bebidas;Salton;12;36;44;Bebidas
+CER626;Cerveja Lata (fardo) (Brahma);Cerveja Lata (fardo);UN;bebidas;Brahma;22;64;76;Bebidas
+VIN939;Vinho Tinto (garrafa) (Casa Valduga);Vinho Tinto (garrafa);UN;bebidas;Casa Valduga;11;31;37;Bebidas
+CER363;Cerveja Lata (fardo) (Skol);Cerveja Lata (fardo);UN;bebidas;Skol;20;60;75;Bebidas
+AGU380;Água Mineral (fardo) (Minalba);Água Mineral (fardo);UN;bebidas;Minalba;25;75;100;Bebidas
+DOC424;Doce de Leite (pote) (Itambé);Doce de Leite (pote);UN;doces;Itambé;15;45;60;Doces
+CHO539;Chocolate Barra (Nestlé);Chocolate Barra;UN;doces;Nestlé;19;57;74;Doces
+CHO979;Chocolate Barra (Garoto);Chocolate Barra;UN;doces;Garoto;17;51;64;Doces
+PAN372;Panetone (Bauducco);Panetone;UN;doces;Bauducco;18;48;61;Doces
+PAC178;Paçoca (pacote) (Paçoquita);Paçoca (pacote);UN;doces;Paçoquita;40;120;160;Doces
+DOC598;Doce de Leite (pote) (Piracanjuba);Doce de Leite (pote);UN;doces;Piracanjuba;14;28;28;Doces
+MAR350;Marshmallow (Fini);Marshmallow;UN;doces;Fini;25;75;100;Doces
+MAR652;Marshmallow (Arcor);Marshmallow;UN;doces;Arcor;28;84;113;Doces
+CHO799;Chocolate Barra (Lacta);Chocolate Barra;UN;doces;Lacta;18;54;73;Doces
+MAR376;Marshmallow (Docile);Marshmallow;UN;doces;Docile;30;90;120;Doces
+SOR309;Sorvete (Nestlé);Sorvete;UN;doces;Nestlé;11;33;44;Doces
+SOR453;Sorvete (Jundiá);Sorvete;UN;doces;Jundiá;9;25;32;Doces
+DOC431;Doce de Leite (pote) (Viçosa);Doce de Leite (pote);UN;doces;Viçosa;12;36;47;Doces
+LEI428;Leite Condensado (lata) (Piracanjuba);Leite Condensado (lata);UN;doces;Piracanjuba;19;55;72;Doces
+LEI114;Leite Condensado (lata) (Itambé);Leite Condensado (lata);UN;doces;Itambé;22;66;87;Doces
+LEI256;Leite Condensado (lata) (Moça);Leite Condensado (lata);UN;doces;Moça;20;60;80;Doces
+SOR776;Sorvete (Kibon);Sorvete;UN;doces;Kibon;10;30;40;Doces
+CON174;Condicionador (Seda);Condicionador;UN;higiene;Seda;23;69;90;Higiene
+SHA532;Shampoo (Seda);Shampoo;UN;higiene;Seda;25;75;100;Higiene
+SHA300;Shampoo (Pantene);Shampoo;UN;higiene;Pantene;20;60;80;Higiene
+SHA249;Shampoo (Dove);Shampoo;UN;higiene;Dove;22;66;87;Higiene
+SAB156;Sabonete (Lux);Sabonete;UN;higiene;Lux;45;135;180;Higiene
+SAB922;Sabonete (Palmolive);Sabonete;UN;higiene;Palmolive;40;120;155;Higiene
+CON383;Condicionador (Dove);Condicionador;UN;higiene;Dove;20;48;54;Higiene
+PAS711;Pasta de Dente (Colgate);Pasta de Dente;UN;higiene;Colgate;30;90;105;Higiene
+SAB927;Sabonete (Dove);Sabonete;UN;higiene;Dove;50;150;200;Higiene
+CON338;Condicionador (Pantene);Condicionador;UN;higiene;Pantene;18;54;73;Higiene
+PAP500;Papel Higiênico (Personal);Papel Higiênico;UN;higiene;Personal;38;114;163;Higiene
+ESC426;Escova de Dente (Oral-B);Escova de Dente;UN;higiene;Oral-B;30;90;110;Higiene
+ESC794;Escova de Dente (Colgate);Escova de Dente;UN;higiene;Colgate;35;105;130;Higiene
+DES911;Desodorante (Rexona);Desodorante;UN;higiene;Rexona;30;90;120;Higiene
+DES467;Desodorante (Nivea);Desodorante;UN;higiene;Nivea;28;84;113;Higiene
+DES910;Desodorante (Axe);Desodorante;UN;higiene;Axe;25;75;100;Higiene
+PAP837;Papel Higiênico (Neve);Papel Higiênico;UN;higiene;Neve;40;118;166;Higiene
+PAS294;Pasta de Dente (Sorriso);Pasta de Dente;UN;higiene;Sorriso;25;75;90;Higiene
+PAP179;Papel Higiênico (Suave);Papel Higiênico;UN;higiene;Suave;42;126;174;Higiene
+ESC285;Escova de Dente (Close Up);Escova de Dente;UN;higiene;Close Up;28;84;103;Higiene
+PAS375;Pasta de Dente (Oral-B);Pasta de Dente;UN;higiene;Oral-B;22;66;77;Higiene
+ABA893;Abacaxi (Nacional);Abacaxi;UN;hortifruti;Nacional;25;75;100;Hortifrúti
+MOR843;Morango (bandeja) (Morango da Serra);Morango (bandeja);UN;hortifruti;Morango da Serra;20;52;64;Hortifrúti
+ALH167;Alho (Alho Marrocos);Alho;UN;hortifruti;Alho Marrocos;20;60;75;Hortifrúti
+REQ106;Requeijão Cremoso (pote) (Danoninho);Requeijão Cremoso (pote);UN;laticinios;Danoninho;10;30;30;Laticínios
+CRE902;Creme de Leite (caixinha) (Itambé);Creme de Leite (caixinha);UN;laticinios;Itambé;18;54;53;Laticínios
+LEI688;Leite Desnatado 1L (Molico);Leite Desnatado 1L;UN;laticinios;Molico;25;75;75;Laticínios
+LEI878;Leite Desnatado 1L (Ninho);Leite Desnatado 1L;UN;laticinios;Ninho;26;78;76;Laticínios
+CRE899;Creme de Leite (caixinha) (Nestlé);Creme de Leite (caixinha);UN;laticinios;Nestlé;20;60;60;Laticínios
+CRE780;Creme de Leite (caixinha) (Piracanjuba);Creme de Leite (caixinha);UN;laticinios;Piracanjuba;15;45;40;Laticínios
+MAN463;Manteiga (tablete) (President);Manteiga (tablete);UN;laticinios;President;15;45;50;Laticínios
+MAN993;Manteiga (tablete) (Qualy);Manteiga (tablete);UN;laticinios;Qualy;20;60;70;Laticínios
+REQ594;Requeijão Cremoso (pote) (Poços de Caldas);Requeijão Cremoso (pote);UN;laticinios;Poços de Caldas;12;36;37;Laticínios
+LEI903;Leite Integral 1L (Nestlé);Leite Integral 1L;UN;laticinios;Nestlé;26;78;71;Laticínios
+IOG563;Iogurte de Frutas (pote) (Yorgus);Iogurte de Frutas (pote);UN;laticinios;Yorgus;16;48;56;Laticínios
+IOG437;Iogurte de Frutas (pote) (Activia);Iogurte de Frutas (pote);UN;laticinios;Activia;18;54;63;Laticínios
+MAN958;Manteiga (tablete) (Doriana);Manteiga (tablete);UN;laticinios;Doriana;18;50;55;Laticínios
+IOG920;Iogurte de Frutas (pote) (Fruttare);Iogurte de Frutas (pote);UN;laticinios;Fruttare;20;60;70;Laticínios
+IOG506;Iogurte Natural (pote) (Danone);Iogurte Natural (pote);UN;laticinios;Danone;24;72;84;Laticínios
+IOG806;Iogurte Natural (pote) (Nestlé);Iogurte Natural (pote);UN;laticinios;Nestlé;20;60;70;Laticínios
+LEI865;Leite Semidesnatado 1L (Santa Clara);Leite Semidesnatado 1L;UN;laticinios;Santa Clara;24;68;68;Laticínios
+IOG962;Iogurte Natural (pote) (Vigor);Iogurte Natural (pote);UN;laticinios;Vigor;22;66;77;Laticínios
+LEI921;Leite Semidesnatado 1L (Elegê);Leite Semidesnatado 1L;UN;laticinios;Elegê;25;61;57;Laticínios
+LEI858;Leite Desnatado 1L (Italac);Leite Desnatado 1L;UN;laticinios;Italac;24;72;74;Laticínios
+LEI932;Leite Integral 1L (Parmalat);Leite Integral 1L;UN;laticinios;Parmalat;24;70;80;Laticínios
+LEI691;Leite Integral 1L (Itambé);Leite Integral 1L;UN;laticinios;Itambé;25;73;76;Laticínios
+LEI220;Leite Semidesnatado 1L (Shefa);Leite Semidesnatado 1L;UN;laticinios;Shefa;26;78;84;Laticínios
+REQ727;Requeijão Cremoso (pote) (Catupiry);Requeijão Cremoso (pote);UN;laticinios;Catupiry;15;45;50;Laticínios
+SAB705;Sabão em Pó (Surf);Sabão em Pó;UN;limpeza;Surf;20;60;75;Limpeza
+DET444;Detergente 500ml (Cif);Detergente 500ml;UN;limpeza;Cif;26;78;61;Limpeza
+DET832;Detergente 500ml (Veja);Detergente 500ml;UN;limpeza;Veja;35;105;135;Limpeza
+DES505;Desinfetante (Lysol);Desinfetante;UN;limpeza;Lysol;20;60;65;Limpeza
+LIM591;Limpador Multiuso (Mr. Músculo);Limpador Multiuso;UN;limpeza;Mr. Músculo;20;60;70;Limpeza
+DES126;Desinfetante (Veja);Desinfetante;UN;limpeza;Veja;25;75;90;Limpeza
+DET446;Detergente 500ml (Ypê);Detergente 500ml;UN;limpeza;Ypê;25;75;60;Limpeza
+ALC294;Álcool 70% (alcool70 INPM);Álcool 70%;UN;limpeza;alcool70 INPM;60;180;210;Limpeza
+ALC833;Álcool 70% (Bioklean);Álcool 70%;UN;limpeza;Bioklean;50;150;180;Limpeza
+ALC838;Álcool 70% (Rioquímica);Álcool 70%;UN;limpeza;Rioquímica;55;165;195;Limpeza
+LIM906;Limpa Vidros (Veja);Limpa Vidros;UN;limpeza;Veja;25;75;90;Limpeza
+LIM876;Limpador Multiuso (Ajax);Limpador Multiuso;UN;limpeza;Ajax;30;90;105;Limpeza
+LIM661;Limpador Multiuso (Veja);Limpador Multiuso;UN;limpeza;Veja;35;105;130;Limpeza
+DES275;Desinfetante (Pinho Sol);Desinfetante;UN;limpeza;Pinho Sol;30;90;110;Limpeza
+AGU346;Água Sanitária (Dragão);Água Sanitária;UN;limpeza;Dragão;40;120;150;Limpeza
+AGU493;Água Sanitária (Qboa);Água Sanitária;UN;limpeza;Qboa;45;135;170;Limpeza
+AGU419;Água Sanitária (Candura);Água Sanitária;UN;limpeza;Candura;50;150;180;Limpeza
+SAB362;Sabão em Pó (Ace);Sabão em Pó;UN;limpeza;Ace;18;50;62;Limpeza
+SAB541;Sabão em Pó (Omo);Sabão em Pó;UN;limpeza;Omo;15;45;60;Limpeza
+LIM562;Limpa Vidros (Scotch-Brite);Limpa Vidros;UN;limpeza;Scotch-Brite;22;66;82;Limpeza
+LIM964;Limpa Vidros (Bravo);Limpa Vidros;UN;limpeza;Bravo;20;48;51;Limpeza
+PIL990;Pilhas (Alcalina);Pilhas (pacote);UN;outros;Alcalina;20;60;80;Outros
+LAM307;Lâmpadas (Osram);Lâmpada LED;UN;outros;Osram;14;40;52;Outros
+REP150;Repelente de Insetos (SBP);Repelente de Insetos (spray);UN;outros;SBP;18;54;73;Outros
+FIT229;Fita Adesiva (Adelbras);Fita Adesiva (rolo);UN;outros;Adelbras;28;82;109;Outros
+VAS262;Vaso de Plantas Pequeno (Vasart);Vaso de Plantas Pequeno;UN;outros;Vasart;8;24;33;Outros
+VAS703;Vaso de Plantas Pequeno (Niquelart);Vaso de Plantas Pequeno;UN;outros;Niquelart;9;27;36;Outros
+PIL596;Pilhas (Rayovac);Pilhas (pacote);UN;outros;Rayovac;18;54;73;Outros
+LAM697;Lâmpadas (Philips);Lâmpada LED;UN;outros;Philips;12;36;47;Outros
+REP236;Repelente de Insetos (Exposis);Repelente de Insetos (spray);UN;outros;Exposis;14;42;56;Outros
+LAM890;Lâmpadas (Ourolux);Lâmpada LED;UN;outros;Ourolux;16;46;60;Outros
+REP957;Repelente de Insetos (Off!);Repelente de Insetos (spray);UN;outros;Off!;15;45;60;Outros
+SAC876;Sacos de Lixo Grandes (Ultralar);Sacos de Lixo Grandes (rolo);UN;outros;Ultralar;24;72;96;Outros
+FIT774;Fita Adesiva (Scotch);Fita Adesiva (rolo);UN;outros;Scotch;25;75;100;Outros
+FIT468;Fita Adesiva (Norton);Fita Adesiva (rolo);UN;outros;Norton;22;66;87;Outros
+LAN992;Lanterna (Vonder);Lanterna;UN;outros;Vonder;15;45;69;Outros
+LAN162;Lanterna (Maglite);Lanterna;UN;outros;Maglite;12;36;52;Outros
+LAN979;Lanterna (Black & Decker);Lanterna;UN;outros;Black & Decker;14;42;66;Outros
+PIL840;Pilhas (Duracell);Pilhas (pacote);UN;outros;Duracell;15;45;60;Outros
+CAR939;Carvão para Churrasco (3kg) (Carvão Pampa);Carvão para Churrasco (3kg);UN;outros;Carvão Pampa;22;64;83;Outros
+CAR469;Carvão para Churrasco (3kg) (Carvão Da Brasa);Carvão para Churrasco (3kg);UN;outros;Carvão Da Brasa;18;54;73;Outros
+CAR443;Carvão para Churrasco (3kg) (Carvão Serrano);Carvão para Churrasco (3kg);UN;outros;Carvão Serrano;20;54;68;Outros
+SAC338;Sacos de Lixo Grandes (ZX);Sacos de Lixo Grandes (rolo);UN;outros;ZX;25;71;92;Outros
+SAC261;Sacos de Lixo Grandes (Bompack);Sacos de Lixo Grandes (rolo);UN;outros;Bompack;22;66;87;Outros
+VAS145;Vaso de Plantas Pequeno (Plantiê);Vaso de Plantas Pequeno;UN;outros;Plantiê;10;30;40;Outros
+ROS848;Rosquinha (Chocolate);Rosquinha;UN;padaria;Chocolate;15;45;60;Padaria
+CRO261;Croissant (Queijo e presunto);Croissant;UN;padaria;Queijo e presunto;8;24;33;Padaria
+CRO634;Croissant (Francês);Croissant;UN;padaria;Francês;10;24;28;Padaria
+ROS993;Rosquinha (Glaceada);Rosquinha;UN;padaria;Glaceada;18;52;69;Padaria
+SON999;Sonho (Doce de Leite);Sonho;UN;padaria;Doce de Leite;12;36;47;Padaria
+CRO767;Croissant (Chocolate);Croissant;UN;padaria;Chocolate;9;27;36;Padaria
+SON675;Sonho (Creme);Sonho;UN;padaria;Creme;15;37;44;Padaria
+PAO407;Pão (Doce);Pão;UN;padaria;Pão Doce;10;30;35;Padaria
+PAO589;Pão (Baguete);Pão;UN;padaria;Pão Baguete;10;30;35;Padaria
+PAO702;Pão (Francês);Pão;UN;padaria;Pão Francês;10;30;35;Padaria
+ROS750;Rosquinha (Açúcar);Rosquinha;UN;padaria;Açúcar;20;60;80;Padaria
+PAO223;Pão de queijo (Com requeijão);Pão de queijo;UN;padaria;Com requeijão;20;60;80;Padaria
+PAO567;Pão de queijo (Tradicional);Pão de queijo;UN;padaria;Tradicional;25;75;100;Padaria
+ENR971;Enroladinho (Salsicha);Enroladinho;UN;padaria;Salsicha;15;45;60;Padaria
+PAS295;Pastel (Palmito);Pastel;UN;padaria;Palmito;8;18;20;Padaria
+PAO150;Pão de queijo (Mineiro);Pão de queijo;UN;padaria;Mineiro;18;54;73;Padaria
+PAS406;Pastel (Queijo);Pastel;UN;padaria;Queijo;14;42;56;Padaria
+ESF936;Esfiha (Queijo);Esfiha;UN;padaria;Queijo;8;24;33;Padaria
+ESF652;Esfiha (Frango);Esfiha;UN;padaria;Frango;9;27;36;Padaria
+ESF829;Esfiha (Carne);Esfiha;UN;padaria;Carne;11;33;44;Padaria
+ENR769;Enroladinho (Frango);Enroladinho;UN;padaria;Frango;10;30;40;Padaria
+ENR192;Enroladinho (Presunto e queijo);Enroladinho;UN;padaria;Presunto e queijo;12;36;47;Padaria
+SON193;Sonho (Goiabada);Sonho;UN;padaria;Goiabada;10;30;40;Padaria
+PAS838;Pastel (Carne);Pastel;UN;padaria;Carne;10;30;40;Padaria
+ACU381;Açúcar 1kg (União);Açúcar;KG;alimento_basico;União;45;129;168;Itens Básicos
+LAR937;Laranja (Laranja Pera);Laranja;KG;hortifruti;Laranja Pera;45;133;176;Hortifrúti
+MAC524;Maçã (Fuji);Maçã;KG;hortifruti;Maçã Fuji;18;54;68;Hortifrúti
+BAN151;Banana (Maçã);Banana;KG;hortifruti;Banana Maçã;20;60;70;Hortifrúti
+BAN907;Banana (Nanica);Banana;KG;hortifruti;Banana Nanica;20;60;70;Hortifrúti
+MAN818;Manga (Palmer);Manga;KG;hortifruti;Manga Palmer;32;94;123;Hortifrúti
+CEB111;Cebola (Cebola Varig);Cebola;KG;hortifruti;Cebola Varig;40;120;160;Hortifrúti
+TOM286;Tomate (Tomate Sado);Tomate;KG;hortifruti;Tomate Sado;35;105;140;Hortifrúti
+BAN900;Banana (Prata);Banana;KG;hortifruti;Banana Prata;20;60;70;Hortifrúti
+MAC621;Maçã (Verde);Maçã;KG;hortifruti;Maçã Verde;17;51;64;Hortifrúti
+QUE234;Queijo Muçarela (peça) (Perdigão);Queijo Muçarela (peça);KG;laticinios;Perdigão;20;60;95;Laticínios
+QUE375;Queijo Muçarela (peça) (Tirolez);Queijo Muçarela (peça);KG;laticinios;Tirolez;18;54;68;Laticínios
+QUE971;Queijo Muçarela (peça) (Sadia);Queijo Muçarela (peça);KG;laticinios;Sadia;15;43;56;Laticínios
+QUE339;Queijo Minas (peça) (Fazenda Cobiça);Queijo Minas (peça);KG;laticinios;Fazenda Cobiça;17;49;69;Laticínios
+QUE744;Queijo Minas (peça) (Presidente);Queijo Minas (peça);KG;laticinios;Presidente;19;41;47;Laticínios
+QUE430;Queijo Minas (peça) (Canastra);Queijo Minas (peça);KG;laticinios;Canastra;18;54;83;Laticínios
+BOL521;Bolo (Cenoura);Bolo;FATIA;padaria;Cenoura;7;13;14;Padaria
+BOL789;Bolo (Fubá);Bolo;FATIA;padaria;Fubá;10;30;42;Padaria
+BOL863;Bolo (Chocolate);Bolo;FATIA;padaria;Chocolate;8;22;29;Padaria
+BIS763;Biscoito de polvilho (Salgado);Biscoito de polvilho;KG;padaria;Salgado;6;16;20;Padaria
+BIS245;Biscoito de polvilho (Azedo);Biscoito de polvilho;KG;padaria;Azedo;4;6;4;Padaria
+BRO724;Broa de milho (Cremosa);Broa de milho;FATIA;padaria;Cremosa;9;25;32;Padaria
+BRO280;Broa de milho (Com erva-doce);Broa de milho;FATIA;padaria;Com erva-doce;10;30;40;Padaria
+BRO225;Broa de milho (Simples);Broa de milho;FATIA;padaria;Simples;12;36;47;Padaria
+BIS916;Biscoito de polvilho (Doce);Biscoito de polvilho;KG;padaria;Doce;5;15;20;Padaria
